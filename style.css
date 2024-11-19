@@ -14,3 +14,17 @@ body{
     display: flex;
     justify-content: center;
 }
+    header{
+        font-size: 35px;
+        color: black;
+        border-bottom: solid 3px brown;
+        padding: 20px
+
+        }
+        h1{
+            font-size: 40px ;
+        }
+        .chamada-texto{
+            margin-right: 5x;
+        }
+    
